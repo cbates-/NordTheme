@@ -9998,9 +9998,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cbate\\source\\GitHub\\VSCode_NordDarkTheme\\VSCode_NordDarkTheme\\VSCode_NordDarkTheme.csproj",
-      "projectName": "VSCode_NordDarkTheme",
-      "projectPath": "C:\\Users\\cbate\\source\\GitHub\\VSCode_NordDarkTheme\\VSCode_NordDarkTheme\\VSCode_NordDarkTheme.csproj",
+      "projectUniqueName": "C:\\Users\\cbate\\source\\GitHub\\VSCode_NordDarkTheme\\VSCode_NordDarkTheme\\NordDark.csproj",
+      "projectName": "NordDark",
+      "projectPath": "C:\\Users\\cbate\\source\\GitHub\\VSCode_NordDarkTheme\\VSCode_NordDarkTheme\\NordDark.csproj",
       "packagesPath": "C:\\Users\\cbate\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\cbate\\source\\GitHub\\VSCode_NordDarkTheme\\VSCode_NordDarkTheme\\obj\\",
       "projectStyle": "PackageReference",

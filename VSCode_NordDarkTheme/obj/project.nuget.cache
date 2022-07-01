@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D07vdjA3+V9mPvzWVILFPUNDt45685O+bp6SZro7/jko0CEluYlvRIz3hg5K2pGwp5qqkSBmi+GtbXDolkG3AQ==",
+  "dgSpecHash": "AKZa2W+Z+CKTY6GKLLU57pJYB+MXZK+g+O8G+BHWqxXMqq2S/dLGkYHmG8Ju3uiciil5tT0dAiZNuQNA1H3gHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cbate\\source\\GitHub\\VSCode_NordDarkTheme\\VSCode_NordDarkTheme\\VSCode_NordDarkTheme.csproj",
+  "projectFilePath": "C:\\Users\\cbate\\source\\GitHub\\VSCode_NordDarkTheme\\VSCode_NordDarkTheme\\NordDark.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cbate\\.nuget\\packages\\envdte\\17.0.32112.339\\envdte.17.0.32112.339.nupkg.sha512",
     "C:\\Users\\cbate\\.nuget\\packages\\envdte100\\17.0.32112.339\\envdte100.17.0.32112.339.nupkg.sha512",
