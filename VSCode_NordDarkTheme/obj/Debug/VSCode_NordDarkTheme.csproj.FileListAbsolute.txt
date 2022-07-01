@@ -1,0 +1,13 @@
+C:\Users\cbate\source\GitHub\VSCode_NordDarkTheme\VSCode_NordDarkTheme\bin\Debug\VSCode_NordDarkTheme.pkgdef
+C:\Users\cbate\source\GitHub\VSCode_NordDarkTheme\VSCode_NordDarkTheme\bin\Debug\VSCode_NordDarkTheme.vsix
+C:\Users\cbate\source\GitHub\VSCode_NordDarkTheme\VSCode_NordDarkTheme\bin\Debug\extension.vsixmanifest
+C:\Users\cbate\source\GitHub\VSCode_NordDarkTheme\VSCode_NordDarkTheme\obj\Debug\VSCode_NordDarkTheme.csproj.AssemblyReference.cache
+C:\Users\cbate\source\GitHub\VSCode_NordDarkTheme\VSCode_NordDarkTheme\obj\Debug\_EmptyResource.resources
+C:\Users\cbate\source\GitHub\VSCode_NordDarkTheme\VSCode_NordDarkTheme\obj\Debug\VSCode_NordDarkTheme.csproj.GenerateResource.cache
+C:\Users\cbate\source\GitHub\VSCode_NordDarkTheme\VSCode_NordDarkTheme\obj\Debug\VSCode_NordDarkTheme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbate\source\GitHub\VSCode_NordDarkTheme\VSCode_NordDarkTheme\obj\Debug\VSCode_NordDarkTheme.csproj.CoreCompileInputs.cache
+C:\Users\cbate\source\GitHub\VSCode_NordDarkTheme\VSCode_NordDarkTheme\obj\Debug\VSCode_NordDarkTheme.dll
+C:\Users\cbate\source\GitHub\VSCode_NordDarkTheme\VSCode_NordDarkTheme\obj\Debug\VSCode_NordDarkTheme.pdb
+C:\Users\cbate\source\GitHub\VSCode_NordDarkTheme\VSCode_NordDarkTheme\obj\Debug\extension.vsixmanifest
+C:\Users\cbate\source\GitHub\VSCode_NordDarkTheme\VSCode_NordDarkTheme\obj\Debug\files.json
+C:\Users\cbate\source\GitHub\VSCode_NordDarkTheme\VSCode_NordDarkTheme\obj\Debug\createTemplateManifests.cache
