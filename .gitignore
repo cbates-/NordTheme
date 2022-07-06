@@ -18,6 +18,8 @@ test/
 x64/
 [Bb]in/
 [Oo]bj/
+# gen'd from .jsonc files for VS Code theme -> VS 2022 theme.
+*.pkgdef
 
 # VSCode
 .vscode*
